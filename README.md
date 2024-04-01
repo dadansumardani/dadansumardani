@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dadansumardani
-- 👀 I’m interested in Virtual Reality & Augmented Reality
-- 🌱 I’m currently learning Virtual Reality
-- 💞️ I’m looking to collaborate on Research
-- 📫 How to reach me, you can email me in dansu.sumardani@gmail.com 
+- 👀 I’m interested in Virtual Reality & Augmented Reality, as well as Generative AI
+- 🌱 I’m currently learning Virtual Reality and GenAI
+- 💞️ I’m looking for any collaboration on Educational Research
+- 📫 How to reach me? you can email me at dansu.sumardani@gmail.com 
 - 👀 More Information https://www.dadansumardani.com
 
 <!---
