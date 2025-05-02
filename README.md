@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dadansumardani
+- 👋 Hi, I’m @dansumardani
 - 👀 I’m interested in Virtual Reality & Augmented Reality, as well as Generative AI
 - 🌱 I’m currently learning Virtual Reality and GenAI
 - 💞️ I’m looking for any collaboration on Educational Research
